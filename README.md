@@ -2,9 +2,9 @@
 
 ## About me
 I am currently a student at [ChasAcademy](https://chasacademy.se/program/fullstackutvecklare-opensource), in the midst of my journey to becoming a full-stack developer, and I’m absolutely hyped to master coding and bring ideas to life!  
-Before that I worked in retail for 10+ years, but felt I needed a change.  
+I have over a decade of experience in retail, where I developed an understanding of human behavior and gained extensive expertise in usability and customer interaction.  
 
-I'm a very curios being and always what to understand the how and the why and always looking for a way to optimize. With that I also love to solve problems, so I figured this was a natural step for me!  
+I'm a very curious being and always wants to understand the how and the why. Always looking for a way to optimize, with that said, I also love to solve problems, so I figured this was a natural step for me!  
 
 ## What I've learnt to use so far
 ![Static Badge](https://img.shields.io/badge/GitHub-grey)
