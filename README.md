@@ -26,7 +26,8 @@ I'm a very curious being and always wants to understand the how and the why. Alw
 ![Static Badge](https://img.shields.io/badge/MYSQL-lightblue)
 ![Static Badge](https://img.shields.io/badge/SASS-pink)
 
-
+## Thanks for dropping by!
+<img src="images\spidertocat.png" width="300px">
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chokladglasyr&layout=donut)](https://github.com/chokladglasyr/github-readme-stats)-->
 
