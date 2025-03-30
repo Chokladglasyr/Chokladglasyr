@@ -2,11 +2,13 @@
 
 ## About me
 
-- 🌱 I’m currently exploring the world of backend.
-- ⚡ Fun fact: I've had 26 
-: blush:
+- 🌱 I’m currently exploring the world of backend.  
+- ⚡ Fun fact: I've had 26 dwarf hamster at the same time.   
+- 📫 Connect with me: [LinkedIn](www.linkedin.com/in/ida-lim-pek)
 
+## My journey
 I am currently a student at [ChasAcademy](https://chasacademy.se/program/fullstackutvecklare-opensource), in the midst of my journey to becoming a fullstack developer, and I’m absolutely hyped to master coding and bring ideas to life!  
+  
 I have over a decade of experience in retail, where I developed an understanding of human behavior and gained extensive expertise in usability and customer interaction.  
 
 I'm a very curious being and always wants to understand the how and the why. Always looking for a way to optimize, with that said, I also love to solve problems, so I figured this was a natural step for me!  
