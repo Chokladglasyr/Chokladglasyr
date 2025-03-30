@@ -1,7 +1,7 @@
 # 👋 Welcome!
-:smile:  
 
-## About me
+
+## About me :libra:  
 
 - 🌱 I’m currently exploring the world of backend.  
 - ⚡ Fun fact: I've had 26 dwarf hamster at the same time.   
