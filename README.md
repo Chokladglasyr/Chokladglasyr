@@ -15,7 +15,7 @@ I have over a decade of experience in retail, where I developed an understanding
 I'm a very curious being and always wants to understand the how and the why. Always looking for a way to optimize, with that said, I also love to solve problems, so I figured this was a natural step for me!  
 
 
-## What I've learnt to use so far
+## :paperclip: What I've learnt to use so far
 ![Static Badge](https://img.shields.io/badge/GitHub-grey)
 ![Static Badge](https://img.shields.io/badge/PHP-lightblue)
 ![Static Badge](https://img.shields.io/badge/HTML-red)
