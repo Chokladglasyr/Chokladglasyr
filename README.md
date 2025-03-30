@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently exploring the world of backend.
 - ⚡ Fun fact: I've had 26 
-:blush:
+: blush:
 
 I am currently a student at [ChasAcademy](https://chasacademy.se/program/fullstackutvecklare-opensource), in the midst of my journey to becoming a fullstack developer, and I’m absolutely hyped to master coding and bring ideas to life!  
 I have over a decade of experience in retail, where I developed an understanding of human behavior and gained extensive expertise in usability and customer interaction.  
