@@ -32,7 +32,7 @@ I'm a very curious being and always wants to understand the how and the why. Alw
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
+  <img alt="github-snake" src="github-snake-dark.svg" />
 </picture>
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chokladglasyr&layout=donut)](https://github.com/chokladglasyr/github-readme-stats)-->
