@@ -31,7 +31,12 @@ jobs:
           outputs: |
             github-snake.svg
             github-snake-dark.svg?palette=github-dark
-          
+            
+      - name: Debug - List files
+        run: ls -R
+
+      - name: Find generated files
+        run: find . -name "github-snake*"
           
       # push the content of <build_dir> to a branch
       # the content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file> , or as github page
