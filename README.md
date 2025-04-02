@@ -20,15 +20,26 @@ I'm a very curious being and always wants to understand the how and the why. Alw
 
 
 ## 📎 What I've learnt to use so far
-![Static Badge](https://img.shields.io/badge/GitHub-grey)
-![Static Badge](https://img.shields.io/badge/PHP-lightblue)
+![Static Badge](https://img.shields.io/badge/Git-grey)
+![Static Badge](https://img.shields.io/badge/GitHub-8A2BE2)
+![Static Badge](https://img.shields.io/badge/GitLab-F35438)
+![Static Badge](https://img.shields.io/badge/Figma-pink)
 ![Static Badge](https://img.shields.io/badge/HTML-red)
 ![Static Badge](https://img.shields.io/badge/CSS-blue)
-![Static Badge](https://img.shields.io/badge/Figma-pink)
-![Static Badge](https://img.shields.io/badge/Docker-blue)
-![Static Badge](https://img.shields.io/badge/C%23-purple)
-![Static Badge](https://img.shields.io/badge/MYSQL-lightblue)
 ![Static Badge](https://img.shields.io/badge/SASS-pink)
+![Static Badge](https://img.shields.io/badge/Tailwind-4BA8FF)
+![Static Badge](https://img.shields.io/badge/Docker-blue)
+![Static Badge](https://img.shields.io/badge/Herd-red)
+![Static Badge](https://img.shields.io/badge/C%23-purple)
+![Static Badge](https://img.shields.io/badge/PHP-lightblue)
+![Static Badge](https://img.shields.io/badge/Laravel-F92702)
+![Static Badge](https://img.shields.io/badge/JavaScript-FFF94B)
+![Static Badge](https://img.shields.io/badge/TypeScript-4249C2)
+![Static Badge](https://img.shields.io/badge/Express-686868)
+![Static Badge](https://img.shields.io/badge/Node.js-green)
+![Static Badge](https://img.shields.io/badge/MYSQL-lightblue)
+![Static Badge](https://img.shields.io/badge/MongoDB-48AC5B)
+
 
 ## Thanks for dropping by!
 <img src="images\spidertocat.png" width="300px">
