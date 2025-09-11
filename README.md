@@ -6,12 +6,19 @@
 </picture>
 
 ## ♎ About me   
+<table>
+<tr>
+<td>
+<li>🌱 I’m currently exploring the world of backend. </li>
+<li>⚡ Fun fact: I've had 26 dwarf hamster at the same time. </li>
+<li>📫 Connect with me: <a href="https://www.linkedin.com/in/ida-lim-pek">LinkedIn</a></li> 
 
-- 🌱 I’m currently exploring the world of backend.  
-- ⚡ Fun fact: I've had 26 dwarf hamster at the same time.   
-- 📫 Connect with me: [LinkedIn](www.linkedin.com/in/ida-lim-pek)  
+</td>
+<td>
+
+<img src="images\chokround.png" width="200px">  
+</td></tr> </table>
   
-<img style="float: right;" src="images\chokround.png" width="200px">  
 
 ## 🐣 My journey   
 I am currently a student at [ChasAcademy](https://chasacademy.se/program/fullstackutvecklare-opensource), in the midst of my journey to becoming a fullstack developer, and I’m absolutely hyped to master coding and bring ideas to life!  
