@@ -6,18 +6,10 @@
 </picture>
 
 ## ♎ About me   
-<table style="border:none;">
-<tr>
-<td>
-<li>🌱 I’m currently exploring the world of backend. </li>
-<li>⚡ Fun fact: I've had 26 dwarf hamster at the same time. </li>
-<li>📫 Connect with me: <a href="https://www.linkedin.com/in/ida-lim-pek">LinkedIn</a></li> 
 
-</td>
-<td>
-
-<img src="images\chokround.png" width="200px">  
-</td></tr> </table>
+- 🌱 I’m currently exploring the world of backend.  
+- ⚡ Fun fact: I've had 26 dwarf hamster at the same time.   
+- 📫 Connect with me: [LinkedIn](www.linkedin.com/in/ida-lim-pek)  
   
 
 ## 🐣 My journey   
@@ -51,7 +43,7 @@ I'm a very curious being and always wants to understand the how and the why. Alw
 
 
 ## Thanks for dropping by!
-<img src="images\spidertocat.png" width="250px">
+<img src="images\chokround.png" width="200px">  
 
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chokladglasyr&layout=donut)](https://github.com/chokladglasyr/github-readme-stats)-->
