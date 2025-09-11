@@ -42,7 +42,7 @@ I'm a very curious being and always wants to understand the how and the why. Alw
 
 
 ## Thanks for dropping by!
-<img src="images\spidertocat.png" width="300px">
+<img src="images\chokround.png" width="300px">
 
 
 
