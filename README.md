@@ -7,10 +7,10 @@
 
 ## ♎ About me   
 
-<img style="float: right;" src="images\chokround.png" width="200px">
+<img style="float: right;" src="images\chokround.png" width="200px">  
 - 🌱 I’m currently exploring the world of backend.  
 - ⚡ Fun fact: I've had 26 dwarf hamster at the same time.   
-- 📫 Connect with me: [LinkedIn](www.linkedin.com/in/ida-lim-pek)
+- 📫 Connect with me: [LinkedIn](www.linkedin.com/in/ida-lim-pek)  
 
 
 ## 🐣 My journey   
