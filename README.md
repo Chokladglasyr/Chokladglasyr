@@ -11,6 +11,7 @@
 - ⚡ Fun fact: I've had 26 dwarf hamster at the same time.   
 - 📫 Connect with me: [LinkedIn](www.linkedin.com/in/ida-lim-pek)
 
+
 ## 🐣 My journey   
 I am currently a student at [ChasAcademy](https://chasacademy.se/program/fullstackutvecklare-opensource), in the midst of my journey to becoming a fullstack developer, and I’m absolutely hyped to master coding and bring ideas to life!  
   
