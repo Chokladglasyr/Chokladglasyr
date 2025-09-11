@@ -7,6 +7,7 @@
 
 ## ♎ About me   
 
+<img style="float: right;" src="images\chokround.png" width="200px">
 - 🌱 I’m currently exploring the world of backend.  
 - ⚡ Fun fact: I've had 26 dwarf hamster at the same time.   
 - 📫 Connect with me: [LinkedIn](www.linkedin.com/in/ida-lim-pek)
@@ -43,8 +44,7 @@ I'm a very curious being and always wants to understand the how and the why. Alw
 
 
 ## Thanks for dropping by!
-<img src="images\chokround.png" width="300px">
-
+<img src="images\spidertocat.png" width="250px">
 
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chokladglasyr&layout=donut)](https://github.com/chokladglasyr/github-readme-stats)-->
