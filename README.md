@@ -6,7 +6,7 @@
 </picture>
 
 ## ♎ About me   
-<table>
+<table style="border:none;">
 <tr>
 <td>
 <li>🌱 I’m currently exploring the world of backend. </li>
